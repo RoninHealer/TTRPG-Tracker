@@ -1,3 +1,3 @@
 layout: Page
 Title: ""
-Permalink: /
+Permalink: /Tracker.html
